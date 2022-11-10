@@ -1,4 +1,4 @@
-##                       CYBER-X TESTING WHATSAPP BOT
+##                       CYBER-X DDN TESTING WHATSAPP BOT
 
 <p align = center>   <img src="https://telegra.ph/file/71c859102f3625d06204b.jpg" alt="GIF" width="250" height="250"/> </p>
 
@@ -7,9 +7,8 @@
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
 ## Deploy Link Template 
-```https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release```
-## Support Group 
-https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
+```https://heroku.com/deploy?template=https://github.com/dharanapc/Cyber-DDN```
+
 
 
 ## In some cases, the bot may stop working automatically as soon as the button issue is resolved. So, if it happens, turn the restart Bot. I will find a solution soon.
@@ -24,7 +23,7 @@ https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-4. Click [FORK](https://github.com/darkalphaxteam/Cyber-X-Beta-Release/fork)
+4. Click [FORK](https://github.com/dharanapc/Cyber-DDN/fork)
 5. Upload Session.json You Forked Repo
 6. Deploy And Enjoy
 
